@@ -189,4 +189,4 @@ before this line:
 * Clone the repository
 * Download tinyxml from http://www.grinninglizard.com/tinyxml/index.html and extract it in the source folder
 * Use CMake to generate a solution or makefile for your favourite build environment
-* Launch the build
+* Launch the build for code
